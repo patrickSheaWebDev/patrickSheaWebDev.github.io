@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainforeverman.
 - 👀 I’m interested in stuff & things.
-- 🌱 I’m currently learning stuff & things.
+- 🌱 I’m currently learning React and Tailwind.
 - 💞️ I’m looking to collaborate on stuff & things.
 - 📫 How to reach me: Concentrate really hard and I shall appear.
 
